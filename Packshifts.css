@@ -1,0 +1,416 @@
+/* .container-fluid{
+    background-image: url(images/back.jpeg);
+    padding: 0px 300px 0px 300px;
+    background-size: cover;
+
+    
+} */
+
+
+
+
+.head-row {
+    background-image: url(images/back.jpeg);
+    padding: 0px 300px 120px 300px;
+    background-size: cover;
+}
+
+.pack-head {
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    color: #fff;
+    line-height: 40px;
+    padding: 10px 0;
+    text-transform: uppercase;
+    margin-top: 84px;
+    margin-left: -176px;
+  
+}
+
+.iso-img{
+    margin-left: -120px;
+}
+
+
+.call-us-head {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #fff;
+    line-height: 40px;
+    padding: 10px 0;
+    text-transform: uppercase;
+    margin-left: -182px;
+}
+
+.safety {
+    color: white;
+    font-family: "sans serif";
+    margin-left: -182px;
+    font-size: 25px;
+}
+
+.pack {
+    border: 0px solid black;
+    padding: 22px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+    height: 84%;
+    width: 150%;
+    margin-top: 50px;
+}
+
+.get {
+    font-size: 17px;
+    margin-left: 54px;
+    font-size: bolder;
+
+}
+
+.form-contain {
+    width: 350px;
+    margin-left: -12px;
+    margin-top: 24px;
+}
+
+.submit {
+    margin-left: 124px;
+    color: white;
+    background-color: blue;
+    border: 0px solid;
+    padding: 5px 20px 5px 20px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+.packing-head {
+    text-align: center;
+    color: #035fae;
+    margin-top: -32px;
+    margin-right: 117px;
+}
+
+#pack-videos {
+    margin-left: 215px;
+    color: #ffcf40;
+    margin-top: -39px;
+}
+
+.second-row {
+    margin-top: 15px;
+}
+
+.bike {
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 20px;
+    text-align: center;
+    color: #035fae;
+}
+
+.location-icon {
+    margin-left: 574px;
+}
+
+.videos {
+    border-radius: 20px;
+}
+
+.first-row {
+    margin-top: 15px;
+}
+
+.second-row {
+    margin-top: 10px;
+}
+
+.third-row {
+    margin-top: 35px;
+}
+
+
+.fourth-row {
+    margin-top: 10px;
+}
+
+.fifth-row {
+    margin-top: 35px;
+}
+
+.sixth-row {
+    margin-top: 10px;
+}
+
+.our-head {
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.our {
+    color: #035fae;
+}
+
+.core {
+    margin-left: 5px;
+    color: #035fae;
+}
+
+.services {
+    margin-left: 5px;
+    color: #ffcf40;
+}
+
+.shifting-row {
+    margin-top: 45px;
+}
+
+.shifting {
+    color: #035fae;
+    text-align: center;
+
+}
+
+.shifting-contain {
+    color: #6c717b;
+    text-transform: capitalize;
+    min-height: 145px;
+}
+
+.get-quote {
+    font-size: 16px;
+    background: linear-gradient(177.32deg, rgba(251, 255, 56, 0.8) 13.44%, rgba(255, 255, 255, 0) 87.87%), #ffcf40;
+    box-shadow: 0px 4px 14px rgb(0 0 0 / 25%);
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-weight: 700;
+    padding: 8px 25px;
+    color: #2F2F2F;
+    border: 0px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 180px;
+}
+
+.vehicles {
+    margin-top: 15px;
+}
+
+.card {
+
+    border-radius: 10px;
+}
+
+/* 
+.vehicle-container {
+    background-color: #f4f4f4;
+} */
+
+.why {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.why-sp {
+    color: #035fae;
+    ;
+}
+
+.why-sp-pack {
+    color: #ffcf40;
+}
+
+.packers-movers {
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.staff {
+    color: black;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.staff-col {
+    background-color: #f4f4f4;
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-left: 90px;
+    padding: 16px;
+}
+
+
+.staff-img {
+    margin-left: 36px;
+    margin-top: 11px;
+}
+
+
+.achieve-contain {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.21) 0%, rgba(255, 255, 255, 0) 100%), #155ED1;
+
+    margin-top: 80px;
+}
+
+
+
+.our-achieve {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 26px;
+    font-family: 'lato' sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 26px;
+    color: #fff;
+
+}
+
+.achieve-text {
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.achieve-contain-logo{
+    margin-left: 100px;
+}
+
+.counter-value{
+    color: white;
+}
+
+.achieve-heading {
+    font-size: 12px;
+    color: white;
+    margin-left: -10px;
+}
+
+.achieve-contain-head-text{
+    margin-top: 35px;
+}
+
+.our-branches-col{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.our-branch{
+    color: #035fae;
+    margin-left: 10px;
+}
+
+.branches{
+    color: #ffcf40;
+    margin-left: 20px;
+}
+
+.our-branches-title{
+    font-size: 26px;
+    font-family: 'lato' sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 26px;
+    margin-bottom: 0;
+}
+
+
+.building-img {
+    margin-left: 227px;
+    margin-top: 26px;
+}
+
+.our-branches-heading {
+    text-transform: uppercase;
+    color: black;
+    /* text-align: center; */
+    margin-left: 167px;
+    margin-top: 6px;
+    font-size: 20px;
+}
+
+.our-branch-col-contain{
+    background: #f4f4f4;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.our-branch-para{
+    margin-top: 15px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.our-branch-col-2{
+    background: #f4f4f4;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-left: 172px;
+}
+
+.our-branch-row{
+    margin-top: 10px;
+}
+
+.footer{
+    margin-top: 120px;
+    background-color: #035fae;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.terms{
+    color: white;
+    font-size: small;
+}
+
+.you-tube{
+    margin-left: 2px;
+}
+
+.face{
+    margin-left: 230px;
+}
+
+.foot-rights{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+
+/* .footer-row{
+    border-bottom: 1px solid black;
+} */
+
+
+#vadod{
+    margin-left: 184px;
+}
